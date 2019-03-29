@@ -1,0 +1,33 @@
+table {
+    align-content: center;
+    border: 10px inset #3333ff;
+    border-collapse: collapse;
+    font-family: verdana, sans-serif;
+}
+
+th {
+    background-color: #336666;
+    color: white;
+}
+
+.year {
+    align-content: center;
+    width: 100%;
+}
+
+.title {
+    width: 60%;
+}
+
+.author {
+    width: 20%;
+}
+
+.publisher {
+    width: 30%;
+}
+
+.caption {
+    padding: 10px;
+    text-align: center;
+}
